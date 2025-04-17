@@ -33,6 +33,6 @@ I'm an Embedded Systems Engineer who loves bridging the gap between hardware and
 
 ### 🤝 Let's Connect!
 
-Find me on [LinkedIn](Your-LinkedIn-URL) or check out my projects below! 👇
+Find me on [Discord](https://discordapp.com/users/450603582987960320) or check out my projects below! 👇
 
 ---
