@@ -1,4 +1,4 @@
-# ✨ Hello, World! I'm Wassim ! ✨
+# :raising_hand: Hello, World! I'm Wassim ! 
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhzMzQ2eHNsOGRqOTl1OWRuaWs4bXlzcTB6NWg3bXhtMjhsd29kZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OrCT1jVbonHG/giphy.gif" width="500" alt="Coding Animation or Personal Logo">
