@@ -4,9 +4,8 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhzMzQ2eHNsOGRqOTl1OWRuaWs4bXlzcTB6NWg3bXhtMjhsd29kZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OrCT1jVbonHG/giphy.gif" width="500" alt="Coding Animation or Personal Logo">
 </p>
 <p align="center">
-*I'm an Embedded Systems Engineer who loves bridging the gap between hardware and software.*
-  ---
-
+I'm an Embedded Systems Engineer who loves bridging the gap between hardware and software.
+---
 </p>
 
 ### 💻 Tech & Passions
