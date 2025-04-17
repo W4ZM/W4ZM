@@ -33,6 +33,41 @@ I'm an Embedded Systems Engineer who loves bridging the gap between hardware and
 
 ---
 
+---
+
+### 📚 Visual Bookshelf
+
+<table>
+  <tr>
+    <td width="60" valign="top">
+      <a href="[LINK_TO_BOOK_INFO_1 Optional]"> <img src="[URL_TO_COVER_IMAGE_1]" alt="Cover of Book 1" width="50">
+      </a>
+    </td>
+    <td valign="top">
+      <strong>[Book Title 1]</strong><br>
+      <em>by [Author 1]</em><br>
+      Rating: ★★★★★<br>
+      <small>Finished: [Date Optional]</small>
+    </td>
+  </tr>
+  <tr>
+    <td width="60" valign="top">
+       <a href="[LINK_TO_BOOK_INFO_2 Optional]">
+        <img src="[URL_TO_COVER_IMAGE_2]" alt="Cover of Book 2" width="50">
+       </a>
+    </td>
+    <td valign="top">
+      <strong>[Book Title 2]</strong><br>
+      <em>by [Author 2]</em><br>
+      Rating: ★★★★☆<br>
+      <small>Currently Reading ⏳</small>
+    </td>
+  </tr>
+  </table>
+
+---
+
+
 ### 🤝 Let's Connect!
 
 Find me on [Discord](https://discordapp.com/users/450603582987960320) .
