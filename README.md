@@ -12,11 +12,13 @@ I'm an Embedded Systems Engineer who loves bridging the gap between hardware and
 
 ### 💻 Tech & Passions
 
-* **Languages:** <p align="center">
+* **Languages:**
+* <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,py,vscode,kubernetes&perline=14" />
   </a>
 </p>
+<p align="center">
 * **Core Interests:**
     * 🪟 Windows Kernel Hacking & Development
     * ⚡ High-Performance DMA Techniques
@@ -26,7 +28,7 @@ I'm an Embedded Systems Engineer who loves bridging the gap between hardware and
     * 💾 Building cool low-level software!
 
 > "The closer to the metal, the better!" 🤘
-
+</p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
