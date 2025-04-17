@@ -40,7 +40,7 @@ I'm an Embedded Systems Engineer who loves bridging the gap between hardware and
 <table>
   <tr>
     <td width="60" valign="top">
-      <a href="[LINK_TO_BOOK_INFO_1 Optional]"> <img src="[URL_TO_COVER_IMAGE_1]" alt="Cover of Book 1" width="50">
+      <a href="[LINK_TO_BOOK_INFO_1 Optional]"> <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6tqb9hxT8iNWR4bqH_nkawszDfpb77e8hy2OvUgb3DWSAYNZx" alt="Cover of Book 1" width="50">
       </a>
     </td>
     <td valign="top">
