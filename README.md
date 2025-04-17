@@ -7,7 +7,7 @@
 I'm an Embedded Systems Engineer who loves bridging the gap between hardware and software.
 
   
-  ---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 ### 💻 Tech & Passions
@@ -47,19 +47,6 @@ I'm an Embedded Systems Engineer who loves bridging the gap between hardware and
       <em>by Pavel Yosifovich</em><br>
       Rating: ★★★★★<br>
       <small>Finished: December 2024</small>
-    </td>
-  </tr>
-  <tr>
-    <td width="60" valign="top">
-       <a href="[LINK_TO_BOOK_INFO_2 Optional]">
-        <img src="[URL_TO_COVER_IMAGE_2]" alt="Cover of Book 2" width="50">
-       </a>
-    </td>
-    <td valign="top">
-      <strong>[Book Title 2]</strong><br>
-      <em>by [Author 2]</em><br>
-      Rating: ★★★★☆<br>
-      <small>Currently Reading ⏳</small>
     </td>
   </tr>
   </table>
