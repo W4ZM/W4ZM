@@ -5,7 +5,9 @@
 </p>
 <p align="center">
 I'm an Embedded Systems Engineer who loves bridging the gap between hardware and software.
----
+
+  
+  ---
 </p>
 
 ### 💻 Tech & Passions
