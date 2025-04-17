@@ -27,8 +27,8 @@ I'm an Embedded Systems Engineer who loves bridging the gap between hardware and
 
 ### 🚀 Currently Exploring
 
-* Diving deeper into [Specific Security Concept, e.g., Trusted Execution Environments (TEEs)].
-* Working on personal projects involving [Specific Hardware, e.g., ESP32, Raspberry Pi, FPGA].
+* Diving deeper into kernel securtiy concepts. :umbrella:
+* Working on personal projects involving DMA. :wrench:
 * Always keen to learn about novel hardware security vulnerabilities and mitigations! 🕵️
 
 ---
