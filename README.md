@@ -57,12 +57,3 @@
 </p>
 
 <hr> ```
-
-**Key Notes:**
-
-* **Separators:** I strongly recommend using the `<hr>` tags as they are cleaner than the flashing GIFs. If you preferred the GIFs, you'd replace each `<hr>` with `<p style="text-align: center;"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator"></p>`.
-* **Book Cover URL:** The `encrypted-tbn1.gstatic.com` URL is from Google's image cache. These URLs can sometimes change or become invalid. If possible, find a more permanent URL for the book cover (e.g., from Open Library, publisher site, or host it yourself).
-* **Emojis:** I kept your original emojis. Note that I changed the umbrella and wrench as the ones you had might not render consistently everywhere.
-* **Centering:** I've tried to maintain your centering, applying it via CSS styles. Adjust `style="text-align: center;"` as needed if you want certain parts left-aligned (like the lists under "Currently Exploring").
-
-You can copy and paste this entire block into your `README.md` file. GitHub will render this HTML correctly.
