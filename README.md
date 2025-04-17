@@ -13,7 +13,7 @@
 
 <strong>Languages:</strong> <p style="text-align: center;">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,c,cpp,py,vscode,visualstudio,uml,latex,vhdl" alt="Skill Icons" />
+        <img src="https://skillicons.dev/icons?i=git,c,cpp,py,vscode,visualstudio,,latex,verilog" alt="Skill Icons" />
     </a>
 </p>
 
@@ -56,4 +56,4 @@
 <p style="text-align: center;"> <a href="https://discordapp.com/users/450603582987960320" target="_blank"> <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord Profile" height="50" width="50" style="vertical-align: middle;"> </a>
 </p>
 
-<hr> ```
+
