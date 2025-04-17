@@ -23,7 +23,9 @@ I'm an Embedded Systems Engineer who loves bridging the gap between hardware and
 
 > "The closer to the metal, the better!" 🤘
 
----
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ### 🚀 Currently Exploring
 
@@ -31,10 +33,11 @@ I'm an Embedded Systems Engineer who loves bridging the gap between hardware and
 * Working on personal projects involving DMA. :wrench:
 * Always keen to learn about novel hardware security vulnerabilities and mitigations! 🕵️
 
----
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-
-### 📚 Visual Bookshelf
+### 📚 Bookshelf
 
 <table>
   <tr>
@@ -51,7 +54,9 @@ I'm an Embedded Systems Engineer who loves bridging the gap between hardware and
   </tr>
   </table>
 
----
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 
 ### 🤝 Let's Connect!
