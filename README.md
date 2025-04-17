@@ -1,9 +1,8 @@
 # ✨ Hello, World! I'm Wassim ! ✨
 
 <p align="center">
-![Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhzMzQ2eHNsOGRqOTl1OWRuaWs4bXlzcTB6NWg3bXhtMjhsd29kZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OrCT1jVbonHG/giphy.gif)
+ <iframe src="https://giphy.com/embed/6OrCT1jVbonHG" width="480" height="302" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wiki-hacking-obd-6OrCT1jVbonHG">via GIPHY</a></p>
 </p>
-
 I'm an **Embedded Systems Engineer** 🤖 who loves bridging the gap between hardware and software. My passion lies in crafting efficient, secure, and reliable systems right from the silicon level.
 
 ---
