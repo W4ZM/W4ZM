@@ -33,21 +33,20 @@ I'm an Embedded Systems Engineer who loves bridging the gap between hardware and
 
 ---
 
----
 
 ### 📚 Visual Bookshelf
 
 <table>
   <tr>
     <td width="60" valign="top">
-      <a href="[LINK_TO_BOOK_INFO_1 Optional]"> <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6tqb9hxT8iNWR4bqH_nkawszDfpb77e8hy2OvUgb3DWSAYNZx" alt="Cover of Book 1" width="50">
+      <a href="https://www.amazon.com/Windows-Kernel-Programming-Pavel-Yosifovich/dp/1977593372"> <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6tqb9hxT8iNWR4bqH_nkawszDfpb77e8hy2OvUgb3DWSAYNZx" alt="Cover of Book 1" width="50">
       </a>
     </td>
     <td valign="top">
-      <strong>[Book Title 1]</strong><br>
-      <em>by [Author 1]</em><br>
+      <strong>Windows Kernel Programming</strong><br>
+      <em>by Pavel Yosifovich</em><br>
       Rating: ★★★★★<br>
-      <small>Finished: [Date Optional]</small>
+      <small>Finished: December 2024</small>
     </td>
   </tr>
   <tr>
