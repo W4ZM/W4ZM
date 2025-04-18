@@ -51,7 +51,7 @@
     </tr>
      <tr>
         <td style="width: 60px; vertical-align: top;">
-            <a href="https://www.amazon.com/Windows-Kernel-Programming-Pavel-Yosifovich/dp/1977593372">
+            <a href="https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901">
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfg2iwMVhHTV4_3jwsky_4hiMSOE-E_RiRg&s" width="50">
             </a>
         </td>
@@ -60,6 +60,18 @@
             <em>by Andrew Honig and Michael Sikorski</em><br>
             Rating: ★★★★★<br>
             <small>Finished: Yes</small> </td>
+    </tr>
+     <tr>
+        <td style="width: 60px; vertical-align: top;">
+            <a href="https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189">
+                <img src="https://www.microsoftpressstore.com/ShowCover.aspx?isbn=9780735684188" width="50">
+            </a>
+        </td>
+        <td style="vertical-align: top;">
+            <strong>Windows Internals: System architecture, processes, threads, memory management, and more, Part 1 (Developer Reference) 7th Edition</strong><br>
+            <em>by Pavel Yosifovich (Author), Mark E. Russinovich David A. Solomon Alex Ionescu</em><br>
+            Rating: ★★★★★<br>
+            <small>Finished: Not Yet</small> </td>
     </tr>
     </table>
 
