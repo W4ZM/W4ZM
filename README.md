@@ -13,7 +13,7 @@
 
 <strong>Languages:</strong> <p style="text-align: center;">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,c,cpp,rust,zig,py,vscode,visualstudio,latex" alt="Skill Icons" />
+        <img src="https://skillicons.dev/icons?i=git,c,cpp,rust,zig,py,matlab,latex" alt="Skill Icons" />
     </a>
 </p>
 
