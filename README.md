@@ -23,7 +23,7 @@
     <li>🔒 UEFI & Secure Boot Implementation</li>
     <li>🛡️ Hardware & Embedded Security Hardening</li>
     <li>🧠 Advanced Memory Management Strategies</li>
-    <li>💾 Building cool low-level software!</li>
+    <li>🔃 Reverse Engineering software</li>
 </ul>
 <blockquote style="text-align: center; margin-left: auto; margin-right: auto; width: fit-content;"> <p>"The closer to the metal, the better!" 🤘</p>
 </blockquote>
@@ -70,6 +70,78 @@
         <td style="vertical-align: top;">
             <strong>Windows Internals: System architecture, processes, threads, memory management, and more, Part 1 (Developer Reference) 7th Edition</strong><br>
             <em>by Pavel Yosifovich (Author), Mark E. Russinovich David A. Solomon Alex Ionescu</em><br>
+            Rating: ★★★★★<br>
+            <small>Finished: Not Yet</small> </td>
+    </tr>
+     <tr>
+        <td style="width: 60px; vertical-align: top;">
+            <a href="https:https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCfp1NAUwz83cTjXmW112xjADFEJ6-DyHhsA&s" width="50">
+            </a>
+        </td>
+        <td style="vertical-align: top;">
+            <strong>The Art of Memory Forensics</strong><br>
+            <em>by Michael Hale Ligh (Author), Andrew Case (Author), Jamie Levy (Author), AAron Walters (Author)</em><br>
+            Rating: ★★★★<br>
+            <small>Finished: Not Yet</small> </td>
+    </tr>
+      <tr>
+        <td style="width: 60px; vertical-align: top;">
+            <a href="https://www.amazon.com/Rootkits-Bootkits-Reversing-Malware-Generation/dp/1593277164">
+                <img src="https://m.media-amazon.com/images/I/81syTKh3nwL.jpg" width="50">
+            </a>
+        </td>
+        <td style="vertical-align: top;">
+            <strong>Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats</strong><br>
+            <em>by Alex Matrosov (Author), Eugene Rodionov (Author), Sergey Bratus (Author)</em><br>
+            Rating: ★★★★★<br>
+            <small>Finished: Yes</small> </td>
+    </tr>
+        <tr>
+        <td style="width: 60px; vertical-align: top;">
+            <a href="https://www.amazon.com/Rootkits-Bootkits-Reversing-Malware-Generation/dp/1593277164">
+                <img src="https://m.media-amazon.com/images/I/8113il6vaRL.jpg" width="50">
+            </a>
+        </td>
+        <td style="vertical-align: top;">
+            <strong>Rootkits: Subverting the Windows Kernel</strong><br>
+            <em>by Greg Hoglund (Author), Jamie Butler (Author)</em><br>
+            Rating: ★★★★<br>
+            <small>Finished: Yes</small> </td>
+    </tr>
+     <tr>
+        <td style="width: 60px; vertical-align: top;">
+            <a href="https://www.amazon.com/What-Makes-Page-Windows-Virtual/dp/1479114294">
+                <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355135758i/15951196.jpg" width="50">
+            </a>
+        </td>
+        <td style="vertical-align: top;">
+            <strong>What Makes It Page?: The Windows 7 (x64) Virtual Memory Manager</strong><br>
+            <em>by Enrico Martignetti (Author)</em><br>
+            Rating: ★★★★★<br>
+            <small>Finished: Yes</small> </td>
+    </tr>
+     <tr>
+        <td style="width: 60px; vertical-align: top;">
+            <a href="https://www.amazon.com/Hardware-Security-Hands-Learning-Approach/dp/0128124776">
+                <img src="https://m.media-amazon.com/images/I/71sUhL4-UzL.jpg" width="50">
+            </a>
+        </td>
+        <td style="vertical-align: top;">
+            <strong>Hardware Security: A Hands-on Learning Approach</strong><br>
+            <em>by Swarup Bhunia Ph.D. Purdue University (Author), Mark M. Tehranipoor Ph.D. (Author)</em><br>
+            Rating: ★★★★★<br>
+            <small>Finished: Not Yet</small> </td>
+    </tr>
+     <tr>
+        <td style="width: 60px; vertical-align: top;">
+            <a href="https://www.amazon.com/Making-Embedded-Systems-Patterns-Software/dp/1449302149">
+                <img src="https://m.media-amazon.com/images/I/71i51ZCft1L._AC_UF1000,1000_QL80_.jpg" width="50">
+            </a>
+        </td>
+        <td style="vertical-align: top;">
+            <strong>Making Embedded Systems: Design Patterns for Great Software</strong><br>
+            <em>by Elecia White (Author)</em><br>
             Rating: ★★★★★<br>
             <small>Finished: Not Yet</small> </td>
     </tr>
