@@ -18,7 +18,7 @@
 </p>
 
 <strong>Core Interests:</strong> <ul>
-    <li>🪟 Windows Kernel Hacking & Development</li>
+    <li>🪟 Windows Kernel Security & Development</li>
     <li>⚡ High-Performance DMA Techniques</li>
     <li>🔒 UEFI & Secure Boot Implementation</li>
     <li>🛡️ Hardware & Embedded Security Hardening</li>
@@ -28,10 +28,10 @@
 <blockquote style="text-align: center; margin-left: auto; margin-right: auto; width: fit-content;"> <p>"The closer to the metal, the better!" 🤘</p>
 </blockquote>
 
-<hr> <h3>🚀 Currently Exploring</h3>
+<hr> <h3>✏️ Currently Exploring</h3>
 
 <ul>
-    <li>Diving deeper into kernel security concepts. ☂️ <li>Working on personal projects involving DMA. 🔧 <li>Always keen to learn about novel hardware security vulnerabilities and mitigations! 🕵️</li>
+    <li>Diving deeper into kernel security concepts.  <li>Working on personal projects involving DMA.  <li>Always keen to learn about novel hardware security vulnerabilities and mitigations! 🕵️</li>
 </ul>
 
 <hr> <h3>📚 Bookshelf</h3>
