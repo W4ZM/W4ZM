@@ -33,7 +33,7 @@
 <ul>
     <li>Diving deeper into kernel security concepts.  <li>Working on personal projects involving DMA.  <li>Always keen to learn about novel hardware security vulnerabilities and mitigations! 🕵️</li>
 </ul>
-<strong>Languages:</strong> <p style="text-align: center;">
+<p style="text-align: center;">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vscode,visualstudio,windows,linux,arduino,raspberrypi,redhat" alt="Skill Icons" />
     </a>
