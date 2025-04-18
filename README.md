@@ -35,7 +35,7 @@
 </ul>
 <strong>Languages:</strong> <p style="text-align: center;">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,windows,linux,arduino,raspberrypi,codecomposer,redhat" alt="Skill Icons" />
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,windows,linux,arduino,raspberrypi,redhat" alt="Skill Icons" />
     </a>
 </p>
 
