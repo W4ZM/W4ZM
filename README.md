@@ -7,7 +7,7 @@
  \/  \/     |_/\_____/\_|  |_/      
 
          Telegram
-  https://t.me/dzwassim95
+  https://t.me/WAZZM
 
 ```
 
