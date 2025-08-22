@@ -7,7 +7,7 @@
  \/  \/     |_/\_____/\_|  |_/      
 
 Telegram : https://t.me/WAZZM
-Discord : https://discordapp.com/users/450603582987960320
+Discord : 450603582987960320
 ```
 
 
