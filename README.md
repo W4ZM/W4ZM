@@ -6,9 +6,8 @@
 \  /\  /\___  |./ /___| |  | |
  \/  \/     |_/\_____/\_|  |_/      
 
-         Telegram
-    https://t.me/WAZZM
-
+Telegram : https://t.me/WAZZM
+Discord : https://discordapp.com/users/450603582987960320
 ```
 
 
