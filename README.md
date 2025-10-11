@@ -7,7 +7,7 @@
  \/  \/     |_/\_____/\_|  |_/      
 
 Telegram : https://t.me/WAZZM
-Discord : 0x63797275735F7468657669727573
+Discord :  cyrus_thevirus
 ```
 
 
